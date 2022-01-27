@@ -1,6 +1,6 @@
 {
-  "name": "bootstrap-multiselect",
-  "version": "1.0.0",
+  "name": "@mdbootstrap/bootstrap-multiselect",
+  "version": "1.0.1",
   "description": "Responsive Multiselect built with the latest Bootstrap 5. Unlike a normal select, multiselect allows the user to select multiple options at once.",
   "main": "basic.html",
   "scripts": {
