@@ -1,5 +1,5 @@
 {
-  "name": "@mdbootstrap/bootstrap-multiselect",
+  "name": "bootstrap-multiselects",
   "version": "1.0.1",
   "description": "Responsive Multiselect built with the latest Bootstrap 5. Unlike a normal select, multiselect allows the user to select multiple options at once.",
   "main": "basic.html",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mdbootstrap/bootstrap-multiselect.git"
+    "url": "git+https://github.com/mdbootstrap/bootstrap-multiselects.git"
   },
   "keywords": [
     "bootstrap",
@@ -23,7 +23,7 @@
   "author": "mdbootstrap",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mdbootstrap/bootstrap-multiselect/issues"
+    "url": "https://github.com/mdbootstrap/bootstrap-multiselects/issues"
   },
   "homepage": "https://mdbootstrap.com/docs/standard/extended/multiselect/"
 }
